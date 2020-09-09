@@ -2,5 +2,5 @@
   "compilerOptions": {
     "baseUrl": "src"
   },
-  "include": ["https://acroipeol.github.io/micro-agency/"]
+  "include": ["src"]
 }
